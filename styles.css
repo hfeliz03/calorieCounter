@@ -1,9 +1,9 @@
 :root {
     --light-grey: #f5f6f7;
-    --dark-blue: #0a0a23;
-    --fcc-blue: #1b1b32;
-    --light-yellow: #fecc4c;
-    --dark-yellow: #feac32;
+    --dark-green: #0a230a;
+    --fcc-green: #1b3220;
+    --light-yellow: #fe874c;
+    --dark-yellow: #fe8a32;
     --light-pink: #ffadad;
     --dark-red: #850000;
     --light-green: #acd157;
@@ -12,7 +12,7 @@
   body {
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-size: 18px;
-    background-color: var(--fcc-blue);
+    background-color: var(--fcc-green);
     color: var(--light-grey);
   }
   
@@ -59,7 +59,7 @@
   input,
   select {
     min-height: 24px;
-    color: var(--dark-blue);
+    color: var(--dark-green);
   }
   
   fieldset,
